@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": "5",
+      "name": "David Whiteeterter",
+      "username": "david.w",
+      "email": "david.white@gmail.com",
+      "phone": "+584147890123",
+      "website": "whitedavid.com"
+    },
+    {
+      "id": "6",
+      "name": "Emma Turner",
+      "username": "emma_turn",
+      "email": "emma.turner@gmail.com",
+      "phone": "+584141234567",
+      "website": "turneremma.net"
+    },
+    {
+      "id": "7",
+      "name": "Ryan Miller",
+      "username": "ryan_m",
+      "email": "ryan.miller@gmail.com",
+      "phone": "+584142345678",
+      "website": "millerryan.org"
+    },
+    {
+      "id": "8",
+      "name": "Olivia Davis",
+      "username": "olivia.d",
+      "email": "olivia.davis@gmail.com",
+      "phone": "+584145678901",
+      "website": "davisolivia.com"
+    },
+    {
+      "id": "9",
+      "name": "Daniel Brown",
+      "username": "daniel.b",
+      "email": "daniel.brown@gmail.com",
+      "phone": "+584147890234",
+      "website": "browndaniel.net"
+    },
+    {
+      "id": "10",
+      "name": "Mia Garcia",
+      "username": "mia_g",
+      "email": "mia.garcia@gmail.com",
+      "phone": "+584149012345",
+      "website": "garciamia.org"
+    },
+    {
+      "name": "Sergio Alejandro Torrealba Perez",
+      "email": "fr0z3nfl4m3z@gmail.com",
+      "phone": "+5845544544554",
+      "id": "12"
+    }
+  ]
+}
